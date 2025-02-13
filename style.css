@@ -1,6 +1,14 @@
 body{
-    background-color: rgb(120, 175, 242);
+    background-color: #CCCCCC;
+}
+
+.titulo{
+    font-size: 40px
+    width: 20%
+    border-radius: 10px
+
 }
 .galinha{
-    width: 50%;
+    width: 20%;
+    border-radius: 10px
 }
